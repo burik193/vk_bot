@@ -51,4 +51,4 @@ async def on_message(message):
                         await chan.send('New post' + ', '+ dt + '\n' + text + '\n' + presend)
 
 # retrieve your token to run first e.g. 'NjU5Nzg5ODcxNjE5MjQ0MDQy.Xhi21Q.mnYEKKCyKgPmkEKsnU-SRwSZSxc'
-client.run('your_token)
+client.run('your_token')
