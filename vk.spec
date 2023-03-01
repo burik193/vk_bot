@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['vk.py'],
-             pathex=['C:\\Users\\Oleg\\PycharmProjects\\vk'],
+             pathex=['path_to_project_folder'],  # e.g. 'C:\\Users\\Username\\Projects\\vk'
              binaries=[],
              datas=[],
              hiddenimports=[],
